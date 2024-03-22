@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/bhavingajjar/string-case-change/issues"
   },
-  "homepage": "https://github.com/bhavingajjar/string-case-change#readme"
+  "homepage": "https://github.com/bhavingajjar/string-case-change#readme",
+  "publishConfig": {
+    "@bhavingajjar:registry": "https://npm.pkg.github.com"
+  }
 }
