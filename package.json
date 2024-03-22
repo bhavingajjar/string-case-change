@@ -1,0 +1,26 @@
+{
+  "name": "string-case-change",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript package for converting strings between different casing styles such as lowercase, uppercase, title case, and sentence case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavingajjar/string-case-change.git"
+  },
+  "keywords": [
+    "string",
+    "case",
+    "change",
+    "convert",
+    "transform"
+  ],
+  "author": "Bhavin Gajjar (https://github.com/bhavingajjar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavingajjar/string-case-change/issues"
+  },
+  "homepage": "https://github.com/bhavingajjar/string-case-change#readme"
+}
