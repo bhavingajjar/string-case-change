@@ -1,6 +1,6 @@
 {
   "name": "string-case-change",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight JavaScript package for converting strings between different casing styles such as lowercase, uppercase, title case, and sentence case.",
   "main": "index.js",
   "scripts": {
